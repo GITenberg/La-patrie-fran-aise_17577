@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1345
     wikipedia: http://en.wikipedia.org/wiki/François_Coppée
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17577#La-patrie-fran-aise
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2006-01-23'
 gutenberg_type: Text
