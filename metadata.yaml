@@ -1,0 +1,43 @@
+_repo: La-patrie-fran-aise_17577
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+  - agent_name: Coppée, François
+    aliases:
+    - Coppée, Francis Edouard Joachim
+    - Coppee, Francois
+    - François Coppée
+    birthdate: 1842
+    deathdate: 1908
+    gutenberg_agent_id: '1345'
+    url: http://www.gutenberg.org/2009/agents/1345
+    wikipedia: http://en.wikipedia.org/wiki/François_Coppée
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17577'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Patrie française'
+- !lcsh 'Dreyfus, Alfred, 1859-1935'
+- !lcsh 'France -- Politics and government -- 1870-1940'
+title: La patrie française
+url: http://www.gutenberg.org/ebooks/17577
